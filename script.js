@@ -1,6 +1,6 @@
 /*** Variables ***/
 // API Key
-const API_KEY = 'vRgpxNRNKxyIlc1sk9lEifd6kDJZDK57';
+const API_KEY = 'AelaFX68avXTCOR8tlQALxZBtMOTf8uh';
 // limit
 const limit = 25; 
 // Get `input`
