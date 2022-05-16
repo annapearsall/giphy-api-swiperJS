@@ -18,3 +18,14 @@ input {
   width:25%;
 /* height:100%; */
 }
+
+/* Swiper styling */
+.swiper {
+  background: red;
+}
+
+.swiper-wrapper {
+  background: green;
+  
+/*   height: 300px; */
+}
