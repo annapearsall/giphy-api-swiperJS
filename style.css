@@ -1,0 +1,20 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+input {
+  font-size: 4em;
+  width: 100%;
+  text-align: center;
+}
+
+.videos {
+  display: flex; 
+  flex-wrap: wrap;
+}
+
+.videos video {
+  object-fit: cover;
+  width:25%;
+/* height:100%; */
+}
