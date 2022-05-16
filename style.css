@@ -21,11 +21,20 @@ input {
 
 /* Swiper styling */
 .swiper {
-  background: red;
+  /* background: red; */
 }
 
 .swiper-wrapper {
   background: green;
   
 /*   height: 300px; */
+}
+
+.swiper-slide {
+  background: blue;
+}
+
+.swiper-slide video {
+   object-fit: cover;
+  width: 100%;
 }
