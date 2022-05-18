@@ -9,11 +9,11 @@ const inputField = document.querySelector('.search-input');
 inputField.value = '';
 
 const swiper = new Swiper('.swiper', {
-  effect: 'coverflow',
-  coverflowEffect: {
-    rotate: 30,
-    slideShadows: false,
-  },
+  // effect: 'coverflow',
+  // coverflowEffect: {
+  //   rotate: 30,
+  //   slideShadows: false,
+  // },
 });
 
 // Listen to key presses
