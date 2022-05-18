@@ -8,13 +8,13 @@ const inputField = document.querySelector('.search-input');
 // Initialize or Default search query
 inputField.value = '';
 
-// const swiper = new Swiper('.swiper', {
-//   effect: 'coverflow',
-//   coverflowEffect: {
-//     rotate: 30,
-//     slideShadows: false,
-//   },
-// });
+const swiper = new Swiper('.swiper', {
+  effect: 'coverflow',
+  coverflowEffect: {
+    rotate: 30,
+    slideShadows: false,
+  },
+});
 
 // Listen to key presses
 inputField.addEventListener('keyup', event => {
